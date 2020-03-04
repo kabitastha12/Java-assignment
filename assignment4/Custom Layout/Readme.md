@@ -1,4 +1,4 @@
-##Custom layout
+## Custom layout
 //creating a custom layout manager
 Before you start creating a custom layout manager, make sure that no existing layout manager meets your requirements. In particular, layout managers such as GridBagLayout, SpringLayout, and BoxLayout are flexible enough to work in many cases. You can also find layout managers from other sources, such as from the Internet. Finally, you can simplify layout by grouping components into containers such as panels.
 
