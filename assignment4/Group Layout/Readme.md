@@ -1,4 +1,4 @@
-##Group layout
+## Group layout
 
 GroupLayout is a LayoutManager that hierarchically group the components and arranges them in a Container. Grouping is done by using the instances of the Group class. It is generally used for developing a GUI ( Graphic User Interface) builders such as Matisse, the GUI builder provided with the NetBeans IDE. GroupLayout Class supports two types of groups:
 
